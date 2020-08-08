@@ -29,7 +29,7 @@ O arquivo JSON está codificado em UTF-8 e possue a seguinte estrutura:
 			["Texto do versículo 1", "Texto do versículo 2", "Texto do versculo 3", "..."],
 			["Texto do versículo 1", "Texto do versículo 2", "Texto do versculo 3", "..."]
 		],
-    "name" : "Nome do livro"
+        "name" : "Nome do livro"
 	}
 ]
 ```
